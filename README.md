@@ -2,7 +2,7 @@
 ![Build](https://img.shields.io/badge/Build-Passed-green)
 ![Version](https://img.shields.io/badge/Version-1.2-red)
 [![License: GPL-3.0-License](https://img.shields.io/badge/License-GPL--3.0--License-yellow)](https://opensource.org/licenses/GPL-3.0)
-[![Download : setup.sh](https://img.shields.io/badge/Download-setup.sh-blue)](https://github.com/CerfMetal/Minecraft-Discord-Bot/archive/refs/heads/setup.zip)
+[![Download : Click here](https://img.shields.io/badge/Download-Click here-blue)](https://github.com/CerfMetal/TranslateBot/archive/refs/heads/main.zip)
 
 # Translate Bot
 
@@ -27,4 +27,4 @@ Please make sure to update tests as appropriate.
 [GNU General Public License v3.0](https://opensource.org/licenses/GPL-3.0)
 
 ## Download
-[Download the discord bot](https://github.com/CerfMetal/Minecraft-Discord-Bot/archive/refs/heads/main.zip)
+[Download the discord bot](https://github.com/CerfMetal/TranslateBot/archive/refs/heads/main.zip)
