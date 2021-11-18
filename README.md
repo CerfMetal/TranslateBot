@@ -1,5 +1,5 @@
 #####
-![Build](https://img.shields.io/badge/Build-Passed-green)
+![Build](https://shields.io/badge/build-passing-brightgreen)
 ![Version](https://img.shields.io/badge/Version-1.2-red)
 [![License: GPL-3.0-License](https://img.shields.io/badge/License-GPL--3.0--License-yellow)](https://opensource.org/licenses/GPL-3.0)
 [![Download : Click here](https://img.shields.io/badge/Download-here-blue)](https://github.com/CerfMetal/TranslateBot/archive/refs/heads/main.zip)
