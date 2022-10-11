@@ -5,7 +5,7 @@
 [![Download : Click here](https://img.shields.io/badge/Download-here-blue)](https://github.com/CerfMetal/TranslateBot/archive/refs/heads/main.zip)
 
 # Translate Bot
-
+de
 Translate Bot is a Python Discord bot made to translate discord messages to a specified language.
 
 <img width="1552" alt="Screen Shot 2022-10-10 at 11 03 18 PM" src="https://user-images.githubusercontent.com/47288189/194987911-8e86d4d7-11d2-4fc8-b1d1-9f809f1e5e5c.png">
