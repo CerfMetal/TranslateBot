@@ -8,6 +8,8 @@
 
 Translate Bot is a Python Discord bot made to translate discord messages to a specified language.
 
+<img width="1552" alt="Screen Shot 2022-10-10 at 11 03 18 PM" src="https://user-images.githubusercontent.com/47288189/194987911-8e86d4d7-11d2-4fc8-b1d1-9f809f1e5e5c.png">
+
 ## Discord bot
 
 To create your discord bot, you can follow this link to the [discord.py documentation](https://discordpy.readthedocs.io/en/latest/discord.html).
